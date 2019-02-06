@@ -22,7 +22,7 @@ body
     background      : url(fond-body.gif) fixed repeat-x 0 20px;
 }
 
-#fixe-haut
+.fixe-haut
 {
     background      : #6c123c url(fond-head.gif) repeat-x;
     height          : 70px;
@@ -74,7 +74,7 @@ body
 
 
 
-#progress_bar{
+.mdl-slider__container{
 	
 	background-color: white !important; /* Met le fond de la barre en blanc */
     position: fixed !important; /* Permet de définir la position de la barre comme fixe */
